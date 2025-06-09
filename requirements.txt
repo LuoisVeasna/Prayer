@@ -2,8 +2,8 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 pydantic
-python-jose
 passlib[bcrypt]
 python-multipart
-https://prayer-app.onrender.com/docs
+python-jose
+
 
