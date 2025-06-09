@@ -6,6 +6,6 @@ passlib[bcrypt]
 python-multipart
 python-jose
 
-git add requirements.txt
+
 git commit -m "fix: cleaned up requirements.txt"
 git push
