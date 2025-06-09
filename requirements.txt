@@ -5,10 +5,3 @@ pydantic
 passlib[bcrypt]
 python-multipart
 python-jose
-
-git add requirements.txt
-git commit -m "Fix: removed invalid URL from requirements"
-git push
-
-==> Your app is live at: https://your-app-name.onrender.com
-
